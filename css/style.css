@@ -41,6 +41,7 @@
 
 div.header_section {
   min-width: 100%;
+  /*from 100% to 100vh*/
   min-height: 100vh;
 }
 
@@ -994,10 +995,3 @@ section#locate {
 .copyright a:active {
   color: #e77518;
 }
-
-
-
-
-
-
-
