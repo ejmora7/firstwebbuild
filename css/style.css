@@ -40,10 +40,8 @@
 }
 
 div.header_section {
-  min-width: 100%;
-  /*from 100% to 100vh*/
-  /*changes arn't reflecting*/
   min-height: 100vh;
+  min-width: 100%;
 }
 
 .headnav {
