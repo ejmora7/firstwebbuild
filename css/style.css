@@ -41,7 +41,7 @@
 
 div.header_section {
   min-height: 100vh;
-  min-width: 100%;
+  min-width: 100vw;
 }
 
 .headnav {
